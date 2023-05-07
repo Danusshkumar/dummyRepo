@@ -6,3 +6,5 @@ this is next
 again one
 official account commit
 anonymous commit
+
+new commit after reinstalling git
